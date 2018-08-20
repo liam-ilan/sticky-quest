@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# For Stuff
+__*
+
+# Cordova
+platforms/
+plugins/
+hooks/
+node_modules/
